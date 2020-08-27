@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/PassWdAdd.png</file>
+        <file>img/PassWdHome.png</file>
+        <file>img/eye.png</file>
+        <file>img/PassWdIcon.svg</file>
+    </qresource>
+</RCC>

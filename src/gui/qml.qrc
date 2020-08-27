@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/custom/PassWd_addField.qml</file>
+        <file>qml/custom/PassWd_normalButton.qml</file>
+        <file>qml/custom/PassWd_addTabContent.qml</file>
+        <file>qml/custom/PassWd_colors.qml</file>
+    </qresource>
+</RCC>
